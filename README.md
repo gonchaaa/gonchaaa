@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Goncha Abbasova</h1>
-<h3 align="center">"A full-stack .NET Developer"</h3>
+<h3 align="center">"A full-stack Java Dveloper"</h3>
 <div align="center">
   <p>
     <img src="https://www.codewars.com/users/gonchaaa/badges/large" alt="CodeWars Badge">
   </p>
 </div>
-- 💬 Ask me about **"Full-stack .NET Developer"**
+- 💬 Ask me about **"Full-stack Java Developer"**
 
 - 📫 How to reach me **qonceabaasova@gmail.com**
 
